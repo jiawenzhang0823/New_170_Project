@@ -26,7 +26,10 @@ An in-class project for the fourth-year undergraduate student in Data Science at
     - yelp_import.ipynb: Code for importing yelp data into SQL dataset. 
 
 ## Feature Engineering
-- 
+- word2vec
+    - word2vec.ipynb: Training a new word2vec model by all the yelp reviews.
+    - saved_*: Saved word2vec model.
+    - Expand_W2V_to_columns.ipynb: Convert word2vec output from string to 100 attributes. 
 
 
 ## .gitignore
