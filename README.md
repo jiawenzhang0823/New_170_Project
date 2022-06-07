@@ -40,7 +40,10 @@ An in-class project for the fourth-year undergraduate student in Data Science at
     - shop_static_info.sql: A SQL view that contain all the static informatio of certain shop.
     - shop_user_avg.sql: A SQL view that calculate the average of user statictis in shop level. 
     - yelp_feature extraction.ipynb: Unpack json format attributes provided by Yelp, and convert those boolean value to numberic value for later modeling.
-    - Yelp_reivew_vadar
+    - Yelp_reivew_vadar.ipynb: Code to get the ***Vadar*** sentiment result.
+- yolo
+    - yolo_v5.ipynb: Applying Yolo v5 to all the review pictures.
+    - yolo_group_by_shop.ipynb
 
 
 ## .gitignore
