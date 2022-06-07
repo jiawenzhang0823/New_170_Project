@@ -57,10 +57,8 @@ An in-class project for the fourth-year undergraduate student in Data Science at
 - autoregressive.ipynb: Code for our Autoregressive Model.
 - linear_regressive.ipynb: Code for multiple linear regressive and Penalized regression models.
 
-
-
 ## **demo.ipynb**: Our demo notebook for our project.
 
 ## .gitignore
-It helps me to ignore the change notice for the sources files in the local document. 
+It helps us to ignore the change notice for the sources files in the local document. 
 
