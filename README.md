@@ -30,6 +30,17 @@ An in-class project for the fourth-year undergraduate student in Data Science at
     - word2vec.ipynb: Training a new word2vec model by all the yelp reviews.
     - saved_*: Saved word2vec model.
     - Expand_W2V_to_columns.ipynb: Convert word2vec output from string to 100 attributes. 
+- yelp
+    - shop_distance
+        - shop_distance.ipynb: Computing how many Coffee and Tea in certain distance(like shops in 100m, 50km).
+        - shop_distance.sql: Adding a table storing the shop_distance information in SQL.
+    - expand_time_for_review.ipynb: Extra month, quarter, and year from the timestamp.
+    - photo_count_and_label.ipynb: Count number of photo and labels (provided by Yelp) in reviews for every shops.
+    - shop_review_avg.sql: A SQL view that taking average for review attributes(like average cool) by shops.
+    - shop_static_info.sql: A SQL view that contain all the static informatio of certain shop.
+    - shop_user_avg.sql: A SQL view that calculate the average of user statictis in shop level. 
+    - yelp_feature extraction.ipynb: Unpack json format attributes provided by Yelp, and convert those boolean value to numberic value for later modeling.
+    - Yelp_reivew_vadar
 
 
 ## .gitignore
