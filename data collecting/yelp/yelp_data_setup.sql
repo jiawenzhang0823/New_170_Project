@@ -45,6 +45,7 @@ CREATE TABLE review(
 	cool int,
 	text text,
 	date time,
+	correct_date TIMESTAMP,
 	primary key(review_id)
 );
 
